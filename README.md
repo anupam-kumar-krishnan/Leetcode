@@ -5,3 +5,4 @@
 3. Palindrome Number
 4. Roman To Integer
 5. Remove Duplicates from Sorted Array
+6. Valid Parenthesis
